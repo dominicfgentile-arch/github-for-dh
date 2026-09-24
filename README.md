@@ -4,9 +4,9 @@ This workshop is given as part of an Intro to Digital Humanities catered towards
 Much of this workshop is devoted to learning how to clone this repository using the command line on your computer. While many of you may be concerned, don't worry! You will learn a few simple commands that will help you navigate to different files and folders (called directories) on your computer. After we cover these basic commands, you will then be able to clone this repository.
 
 This README is divided into the following sections:
-- [What is a README?](#what-is-a-readme?)
+- [What is a README?](#what-is-a-readme)
 - [The Command Line](#the-command-line)
-	- [How do I get to the command line?](#how-do-i-get-to-the-command-line?)
+	- [How do I get to the command line?](#how-do-i-get-to-the-command-line)
 	- [Command line reference](#command-line-reference)
 - [Command line reference](#installing-git)
 	- [Installing Git on Windows machines](#installing-git-on-windows-machines)
