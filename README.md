@@ -4,23 +4,23 @@ This workshop is given as part of an Intro to Digital Humanities catered towards
 Much of this workshop is devoted to learning how to clone this repository using the command line on your computer. While many of you may be concerned, don't worry! You will learn a few simple commands that will help you navigate to different files and folders (called directories) on your computer. After we cover these basic commands, you will then be able to clone this repository.
 
 This README is divided into the following sections:
-[What is a README?](#what-is-a-readme?)
-[The Command Line](#the-command-line)
-	[How do I get to the command line?](#how-do-i-get-to-the-command-line?)
-	[Command line reference](#command-line-reference)
-[Command line reference](#installing-git)
-	[Installing Git on Windows machines](#installing-git-on-windows-machines)
-	[Installin Git on Macs](#installing-git-on-macs)
-[Git Commands](#git-commands)
-[References](#references)
-[Resources](#resources)
+- [What is a README?](#what-is-a-readme?)
+- [The Command Line](#the-command-line)
+	- [How do I get to the command line?](#how-do-i-get-to-the-command-line?)
+	- [Command line reference](#command-line-reference)
+- [Command line reference](#installing-git)
+	- [Installing Git on Windows machines](#installing-git-on-windows-machines)
+	- [Installing Git on Macs](#installing-git-on-macs)
+- [Git Commands](#git-commands)
+- [References](#references)
+- [Resources](#resources)
 
 Feel free to reference this README throughout this workshop!
 
 # What is a README?
 A README is a document created by project developers that create to provide essential information about their projects. They are usually stored as text (.txt) or markdown (.md) files. The file you see here is a markdown file. They allow me to mark up plain text which is rendered here in this file. I can insert links (linking within this document or to a URL), create headings, and insert images, code blocks, and tables all using plain text. The images you see here are stored in a folder in this GitHub repository and when I want to insert it, I provide a link to where the image is store in this repository.
 
-I can even link to the [https://docs.google.com/presentation/d/1M-7CvYWcNbAYxR1pd-Vlye9EqJs41LvprNJEbv2ePw4/edit?usp=sharing](Google Slides presentation)
+I can even link to the [Google Slides presentation](https://docs.google.com/presentation/d/1M-7CvYWcNbAYxR1pd-Vlye9EqJs41LvprNJEbv2ePw4/edit?usp=sharing)
 
 ## The Command Line
 
