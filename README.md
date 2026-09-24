@@ -29,7 +29,7 @@ I can even link to the [Google Slides presentation](https://docs.google.com/pres
 Windows Users:
 - Press the windows key (⊞) and enter "Powershell" in the search bar + press enter
 - You should see a blue window like this:  
-  !(A screen shot of a Powershell terminal window.)[media/windows_powershell.png]
+  ![A screen shot of a Powershell terminal window.](media/windows_powershell.png)
 
 Mac Users:
 - Got to the Spotlight search bar and type "terminal" + enter
