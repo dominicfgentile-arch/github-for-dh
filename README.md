@@ -85,6 +85,7 @@ Entering `git <command> -h` (for instance `git clone -h`) will take you to more 
 | `commit`          | logs the changes you made to your local repository                                                                            |
 | `push`            | takes local changes (created, edited, deleted files) and adds them to the remote repository                                   |
 
+
 ![An image displaying the standard Git workflow.](media/adhikari_github_workflow.png)
 
 Adhikari, Sujan. (2023, November 20). How Git works: A visual guide with code. Medium.
