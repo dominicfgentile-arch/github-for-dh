@@ -59,14 +59,14 @@ Mac Users:
 2) Select “Click here to download” at the top of the page
 3) This will take you to a dialog box that will walk you through the installation.
 
-[See detailed instructions](documents/git_install_windows.md)
+[See detailed instructions](documentation/git_install_windows.md)
 
 ## Installing Git on Macs
 
 1) In terminal type `xcode-select --install` + return
 2) This will take you to a dialog box that will walk you through the installation.
 
-[See detailed instructions](documents/git_install_mac.md)
+[See detailed instructions](documentation/git_install_mac.md)
 
 # Git Commands
 
