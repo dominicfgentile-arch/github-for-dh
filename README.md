@@ -22,9 +22,9 @@ A README is a document created by project developers that create to provide esse
 
 I can even link to the [Google Slides presentation](https://docs.google.com/presentation/d/1M-7CvYWcNbAYxR1pd-Vlye9EqJs41LvprNJEbv2ePw4/edit?usp=sharing)
 
-## The Command Line
+# The Command Line
 
-### How do I get to the command line?
+## How do I get to the command line?
 
 Windows Users:
 - Press the windows key (⊞) and enter "Powershell" in the search bar + press enter
@@ -39,7 +39,7 @@ Mac Users:
 
 **Note: While the commands that we will cover in this workshop are the same for both Windows and Mac, commands might different slightly for more advanced or specific tasks.**
 
-### Command line reference
+## Command line reference
 
 | Command                 | Description                                                                                                                                                                                |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -50,11 +50,23 @@ Mac Users:
 | `git --clone <url>.git` | Use to download a local copy of a remote repository. Use only once.                                                                                                                        |
 | `clear`                 | Clears your terminal window.                                                                                                                                                               |
 | ctrl + c (control + c)  | Quits a process that is running.                                                                                                                                                           |
+
 # Installing Git
 
 ## Installing Git on Windows Machines
 
+1) Navigate to [https://git-scm.com/install/windows](https://git-scm.com/install/windows)
+2) Select “Click here to download” at the top of the page
+3) This will take you to a dialog box that will walk you through the installation.
+
+[See detailed instructions](documents/git_install_windows.md)
+
 ## Installing Git on Macs
+
+1) In terminal type `xcode-select --install` + return
+2) This will take you to a dialog box that will walk you through the installation.
+
+[See detailed instructions](documents/git_install_mac.md)
 
 # Git Commands
 
@@ -74,11 +86,13 @@ Entering `git <command> -h` (for instance `git clone -h`) will take you to more 
 | `push`            | takes local changes (created, edited, deleted files) and adds them to the remote repository                                   |
 
 ![An image displaying the standard Git workflow.](media/adhikari_github_workflow.png)
+
 Adhikari, Sujan. (2023, November 20). How Git works: A visual guide with code. Medium.
 
 Use `git clone` in place of `git fetch` the first time you download the remote repository
 
 # References
+
 “1.3 Getting started - What is Git?” (n.d.). Git. Accessed September 20, 2026. [https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
 
 Adhikari, Sujan. (2023, November 20). How Git works: A visual guide with code. *Medium*. [https://medium.com/@sujanaddy98/how-git-works-a-visual-guide-with-code-b4edf2694298](https://medium.com/@sujanaddy98/how-git-works-a-visual-guide-with-code-b4edf2694298)
