@@ -28,11 +28,14 @@ I can even link to the [Google Slides presentation](https://docs.google.com/pres
 
 Windows Users:
 - Press the windows key (⊞) and enter "Powershell" in the search bar + press enter
-- You should see a blue window like this:  
-  ![A screen shot of a Powershell terminal window.](media/windows_powershell.png)
+- You should see a blue window like this:
+  
+  ![A screenshot of a Powershell terminal window](media/windows_powershell.png)
 
 Mac Users:
 - Got to the Spotlight search bar and type "terminal" + enter
+  
+![A screenshot of a Mac Terminal window](media/mac_terminal.png)
 
 **Note: While the commands that we will cover in this workshop are the same for both Windows and Mac, commands might different slightly for more advanced or specific tasks.**
 
@@ -78,7 +81,7 @@ Use `git clone` in place of `git fetch` the first time you download the remote r
 # References
 “1.3 Getting started - What is Git?” (n.d.). Git. Accessed September 20, 2026. [https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
 
-Adhikari, Sujan. (2023, November 20). How Git works: A visual guide with code. *Medium*. [](https://medium.com/@sujanaddy98/how-git-works-a-visual-guide-with-code-b4edf2694298)
+Adhikari, Sujan. (2023, November 20). How Git works: A visual guide with code. *Medium*. [https://medium.com/@sujanaddy98/how-git-works-a-visual-guide-with-code-b4edf2694298](https://medium.com/@sujanaddy98/how-git-works-a-visual-guide-with-code-b4edf2694298)
 
 Becker, D., Williamson, E., & Wikle, O. (2020). CollectionBuilder-CONTENTdm: Developing a static web ‘skin’ for CONTENTdm-based digital collections. *Code{4}lib Journal, 49*. [https://journal.code4lib.org/articles/15326](https://journal.code4lib.org/articles/15326) 
 
@@ -88,13 +91,13 @@ Craig, K., Dalmau, M., & Purcell, S. (2026, March 25). Operationalizing minimal 
 
 ghostinhershell. (2025, July 25). “Day 1: What is GitHub (and why do people use it)? 🤔.” GitHub. [https://github.com/orgs/community/discussions/167863](https://github.com/orgs/community/discussions/167863)
 
-Koeser, R.S., Budak, N. (2025). mep-django \[Computer software]\. [](https://github.com/Princeton-CDH/mep-django)
+Koeser, R.S., Budak, N. (2025). mep-django \[Computer software]\. [https://github.com/Princeton-CDH/mep-django](https://github.com/Princeton-CDH/mep-django)
 
 Kotin, J., Koeser, R.S. et al. “Discoveries.” (2021). Shakespeare and Company Project, version 1.10.1. Center for Digital Humanities, Princeton University. [https://shakespeareandco.princeton.edu/discoveries/](https://shakespeareandco.princeton.edu/discoveries/)
 
-Kotin, J., Koeser, R.S. et al. (2025). Shakespeare and company project, version 1.10.1. Center for Digital Humanities, Princeton University. [](https://shakespeareandco.princeton.edu/)
+Kotin, J., Koeser, R.S. et al. (2025). Shakespeare and company project, version 1.10.1. Center for Digital Humanities, Princeton University. [https://shakespeareandco.princeton.edu/](https://shakespeareandco.princeton.edu/)
 
-“Pull Requests.” (2026). [](https://docs.github.com/en/pull-requests/reference/pull-requests)
+“Pull Requests.” (2026). [https://docs.github.com/en/pull-requests/reference/pull-requests](https://docs.github.com/en/pull-requests/reference/pull-requests)
 
 # Resources
 
@@ -107,4 +110,4 @@ Kotin, J., Koeser, R.S. et al. (2025). Shakespeare and company project, version 
 - Access to learning modules and certifications that are usually paywalled
 - Free access upon proof that you are a student
 
-“Software Carpentry Lessons.” (2026). The Carpentries. [](https://software-carpentry.org/lessons/)
+“Software Carpentry Lessons.” (2026). The Carpentries. [https://software-carpentry.org/lessons/](https://software-carpentry.org/lessons/)
