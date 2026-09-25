@@ -37,7 +37,7 @@ Mac Users:
   
 ![A screenshot of a Mac Terminal window](media/mac_terminal.png)
 
-**Note: While the commands that we will cover in this workshop are the same for both Windows and Mac, commands might different slightly for more advanced or specific tasks.**
+**Note: While the commands that we will cover in this workshop are the same for both Windows and Mac, commands might differ slightly for more advanced or tasks specific operating system. Programs that you can access via the command line will have their own requirements. In either case the information we present to you today will allow you to navigate your way through a command line interface (terminal) and your computer.**
 
 ## Command line reference
 
