@@ -57,9 +57,8 @@ Mac Users:
 
 Use the command line:
 
-1) Navigate to [https://git-scm.com/install/windows](https://git-scm.com/install/windows)
-2) In Powershell type `winget install --id Git.Git -e --source winget` + enter
-3) This will take you to a dialog box that will walk you through the installation.
+1) In Powershell type `winget install --id Git.Git -e --source winget` + enter
+2) This will take you to a dialog box that will walk you through the installation.
 
 
 Use the GUI installer:
