@@ -55,11 +55,21 @@ Mac Users:
 
 ## Installing Git on Windows Machines
 
+Use the command line:
+
+1) Navigate to [https://git-scm.com/install/windows](https://git-scm.com/install/windows)
+2) In Powershell type `winget install --id Git.Git -e --source winget` + enter
+3) This will take you to a dialog box that will walk you through the installation.
+
+
+Use the GUI installer:
+
 1) Navigate to [https://git-scm.com/install/windows](https://git-scm.com/install/windows)
 2) Select “Click here to download” at the top of the page
 3) This will take you to a dialog box that will walk you through the installation.
 
 [See detailed instructions](documentation/git_install_windows.md)
+
 
 ## Installing Git on Macs
 
