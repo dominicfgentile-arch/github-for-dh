@@ -25,7 +25,7 @@ I can even link to the [Google Slides presentation](https://docs.google.com/pres
 README files are displayed on the homepage of a GitHub repository. If you are on the homepage go to [this link](https://github.com/dominicfgentile-arch/dh-github-practice/blob/main/README.md) to see how a typical file created in GitHub appears.
 
 Fine the toggle towards the top of your screen and switch it to "Code" view.
-![media/code_toggle.png]
+!(Image of a toggle that allows you to change between the rendered text and raw code/plain text of a document)[media/code_toggle.png]
 
 # The Command Line
 
