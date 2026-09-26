@@ -6,8 +6,9 @@ Much of this workshop is devoted to learning how to clone this repository using 
 This README is divided into the following sections:
 - [What is a README?](#what-is-a-readme)
 - [The Command Line](#the-command-line)
+	- [Why use the command line?](#why-use-the-command-line)
 	- [How do I get to the command line?](#how-do-i-get-to-the-command-line)
-	- [Command line reference](#command-line-reference)
+	- [Command Line reference](#command-line-reference)
 - [Command line reference](#installing-git)
 	- [Installing Git on Windows machines](#installing-git-on-windows-machines)
 	- [Installing Git on Macs](#installing-git-on-macs)
@@ -28,6 +29,15 @@ Fine the toggle towards the top of your screen and switch it to "Code" view.
 ![Image of a toggle that allows you to change between the rendered text and raw code/plain text of a document](media/code_toggle.png)
 
 # The Command Line
+In this workshop, we will use the command line to interact with files on our computer and GitHub. 
+
+Programs like Command Prompt, Powershell, and Terminal are **command line interfaces** (also know as "text input and output environment\[s\]") [\("GeeksforGeeks"\)](https://www.geeksforgeeks.org/operating-systems/difference-between-terminal-console-shell-and-command-line/). The program that runs inside your command line interface and interprets your commands is called a **shell**.
+
+## Why use the command line?
+
+Using the command line is best for repetitive tasks that would be challenging to complete using your computers **graphical user interface** (or GUI). This is especially useful for researchers who may work on corpora of text or music. You may need to rename thousands of files according to a specific naming schema and upload them to GitHub to share with other researchers and librarians. Finding, renaming, and uploading each file could take hours using the GUI but seconds using the command line!
+
+While it may seems complicated at first, knowing only a handful of commands will allow you to navigate your computer and retrieve or upload files to GitHub.
 
 ## How do I get to the command line?
 
@@ -58,7 +68,7 @@ Mac Users:
 
 # Installing Git
 
-## Installing Git on Windows Machines
+## Installing Git on Windows machines
 
 Use the command line:
 
