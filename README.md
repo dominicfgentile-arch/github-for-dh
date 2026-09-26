@@ -22,7 +22,10 @@ A README is a document created by project developers to share essential informat
 
 I can even link to the [Google Slides presentation](https://docs.google.com/presentation/d/1M-7CvYWcNbAYxR1pd-Vlye9EqJs41LvprNJEbv2ePw4/edit?usp=sharing).
 
-README files are displayed on the homepage of a GitHub repository.
+README files are displayed on the homepage of a GitHub repository. If you are on the homepage go to [this link](https://github.com/dominicfgentile-arch/dh-github-practice/blob/main/README.md) to see how a typical file created in GitHub appears.
+
+Fine the toggle towards the top of your screen and switch it to "Code" view.
+![media/code_toggle.png]
 
 # The Command Line
 
