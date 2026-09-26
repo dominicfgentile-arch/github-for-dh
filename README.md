@@ -29,14 +29,18 @@ Fine the toggle towards the top of your screen and switch it to "Code" view.
 ![Image of a toggle that allows you to change between the rendered text and raw code/plain text of a document](media/code_toggle.png)
 
 GitHub is optimal for sharing code and other files containing text but not for media such as video and music files. Common file formats include:
-| File Type                 | Description                                                                                                                                                                                |
+| File Type                 | Common Uses                                                                                                                                                  |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| HTML | webpages |
-| CSV | tables |
-| Markdown | text |
-| Text Files | text |
-| XML | encoding documents such as text, music, or metadata |
-| YAML | configuration files (ensures that people interested in your project will be working with the correct versions of software when using your files)|
+| .html | webpages |
+| .css (CSS/Cascading Style Sheets) | style HTML webpages |
+| .js (JavaScript) | used to add interactive elements to HTML webpages |
+| .csv | tabular data |
+| .json  | store/transfer data |
+| .md | text |
+| .txt | text |
+| .xml | encoding documents such as text, music, or metadata |
+| .yaml | configuration files (ensures that people interested in your project will be working with the correct versions of software when using your files)|
+| .py and .pynb | programs written in the Python programming language|
 
 # The Command Line
 In this workshop, we will use the command line to interact with files on our computer and GitHub. 
