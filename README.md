@@ -26,7 +26,7 @@ For an example: [Here's the link to this workshop's Google Slides presentation](
 README files are displayed on the homepage of a GitHub repository. If you are on the homepage go to [this link](https://github.com/dominicfgentile-arch/dh-github-practice/blob/main/README.md) to see how a typical file created in GitHub appears.
 
 Fine the toggle towards the top of your screen and switch it to "Code" view.
-![Image of a toggle that allows you to change between the rendered text and raw code/plain text of a document](media/code_toggle.png | width=100)
+![Image of a toggle that allows you to change between the rendered text and raw code/plain text of a document](media/code_toggle.png)
 
 GitHub is optimal for sharing code and other files containing text but not for media such as video and music files. Common file formats include:
 | File Type                 | Common Uses                                                                                                                                                  |
