@@ -1,7 +1,7 @@
 # Welcome to GitHub for Digital Humanities! 
-This workshop is given as part of an Intro to Digital Humanities catered towards Master of Library Science students. In this workshop you will learn about the benefits of GitHub, how Git works, and how to download the files on this GitHub repository to your own computer. Additionally, we will show you how digital humanists have used Git/GitHub to share and publish their work online as static webpages created using GitHub pages.
+This GitHub repository is intended for participants of a workshop taught as part of an Intro to Digital Humanities course catered towards Master of Library Science students. In this workshop we will cover the benefits of GitHub, how Git works, and how to download the files on this GitHub repository to your own computer. Additionally, we will show you examples of DH projects that use GitHub pages to display static websites.
 
-Much of this workshop is devoted to learning how to clone this repository using the command line on your computer. While many of you may be concerned, don't worry! You will learn a few simple commands that will help you navigate to different files and folders (called directories) on your computer. After we cover these basic commands, you will then be able to clone this repository.
+Much of this workshop is devoted to learning how to clone this repository using the command line on your computer. While many of you may be concerned, don't worry! You will learn a few simple commands that will help you navigate to different files and folders (called directories) on your computer. After we cover these basic commands, you will be able to clone this repository.
 
 This README is divided into the following sections:
 - [What is a README?](#what-is-a-readme)
@@ -19,14 +19,24 @@ This README is divided into the following sections:
 Feel free to reference this README throughout this workshop!
 
 # What is a README?
-A README is a document created by project developers to share essential information about their projects. They are usually stored as text (.txt) or markdown (.md) files. The file you see here is a markdown file. They allow me to mark up plain text to insert links, images, code blocks, and tables and create headings. The images you see here are stored in a folder in this GitHub repository and when I want to insert it, I provide a link to where the image is store in this repository.
+A README is a document created by project developers to share essential information about their projects. They are usually stored as text (.txt) or markdown (.md) files. The file you see here is a markdown file, which allows you to display text, insert links, images, code blocks, and tables, and create headings using plain text.
 
-I can even link to the [Google Slides presentation](https://docs.google.com/presentation/d/1M-7CvYWcNbAYxR1pd-Vlye9EqJs41LvprNJEbv2ePw4/edit?usp=sharing).
+For an example: [Here's the link to this workshop's Google Slides presentation](https://docs.google.com/presentation/d/1M-7CvYWcNbAYxR1pd-Vlye9EqJs41LvprNJEbv2ePw4/edit?usp=sharing).
 
 README files are displayed on the homepage of a GitHub repository. If you are on the homepage go to [this link](https://github.com/dominicfgentile-arch/dh-github-practice/blob/main/README.md) to see how a typical file created in GitHub appears.
 
 Fine the toggle towards the top of your screen and switch it to "Code" view.
 ![Image of a toggle that allows you to change between the rendered text and raw code/plain text of a document](media/code_toggle.png)
+
+GitHub is optimal for sharing code and other files containing text but not for media such as video and music files. Common file formats include:
+| File Type                 | Description                                                                                                                                                                                |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| HTML | webpages |
+| CSV | tables |
+| Markdown | text |
+| Text Files | text |
+| XML | encoding documents such as text, music, or metadata |
+| YAML | configuration files (ensures that people interested in your project will be working with the correct versions of software when using your files)|
 
 # The Command Line
 In this workshop, we will use the command line to interact with files on our computer and GitHub. 
@@ -140,7 +150,9 @@ Kotin, J., Koeser, R.S. et al. (2025). Shakespeare and company project, version 
 
 # Resources
 
-“Bash Tutorial.” (2026). W3Schools. [https://www.w3schools.com/bash/index.php](https://www.w3schools.com/bash/index.php) 
+“Bash Tutorial.” (2026). W3Schools. [https://www.w3schools.com/bash/index.php](https://www.w3schools.com/bash/index.php)
+
+"Difference between terminal, console, shell, and command line." (2025, July 23). GeeksforGeeks. [https://www.geeksforgeeks.org/operating-systems/difference-between-terminal-console-shell-and-command-line/)](https://www.geeksforgeeks.org/operating-systems/difference-between-terminal-console-shell-and-command-line/)
 
 “Git Cheat Sheet.” (n.d.). Git. Accessed September 20, 2026. https://git-scm.com/cheat-sheet
 
@@ -149,4 +161,5 @@ Kotin, J., Koeser, R.S. et al. (2025). Shakespeare and company project, version 
 - Access to learning modules and certifications that are usually paywalled
 - Free access upon proof that you are a student
 
-“Software Carpentry Lessons.” (2026). The Carpentries. [https://software-carpentry.org/lessons/](https://software-carpentry.org/lessons/)
+“Software Carpentry Lessons.” (2026). Software Carpentry. The Carpentries. [https://software-carpentry.org/lessons/](https://software-carpentry.org/lessons/)
+- See ["The Unix Shell"](https://swcarpentry.github.io/shell-novice/) and ["Version control with Git"](https://swcarpentry.github.io/git-novice/) lessons
