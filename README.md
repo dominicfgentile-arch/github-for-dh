@@ -29,18 +29,18 @@ Fine the toggle towards the top of your screen and switch it to "Code" view.
 ![Image of a toggle that allows you to change between the rendered text and raw code/plain text of a document](media/code_toggle.png)
 
 GitHub is optimal for sharing code and other files containing text but not for media such as video and music files. Common file formats include:
-| File Type                 | Common Uses                                                                                                                                                  |
+| Name | Extension                 | Common Uses                                                                                                                                                  |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| .html | webpages |
-| .css (CSS/Cascading Style Sheets) | style HTML webpages |
-| .js (JavaScript) | used to add interactive elements to HTML webpages |
-| .csv | tabular data |
-| .json  | store/transfer data |
-| .md | text |
-| .txt | text |
-| .xml | encoding documents such as text, music, or metadata |
-| .yaml | configuration files (ensures that people interested in your project will be working with the correct versions of software when using your files)|
-| .py and .pynb | programs written in the Python programming language|
+| HTML| .html | webpages |
+| CSS | .css | style HTML webpages |
+|JavaScript| .js | used to add interactive elements to HTML webpages |
+| CSV | .csv | tabular data |
+| JSON | .json  | store/transfer data |
+| Markdown | .md | README files, documentation |
+| Text | .txt | text |
+| XML | .xml | encoding documents such as text, music, or metadata |
+| YAML | .yaml | configuration files (ensures that people interested in your project will be working with the correct versions of software when using your files)|
+| Python | .py and .pynb | programs written in the Python programming language|
 
 # The Command Line
 In this workshop, we will use the command line to interact with files on our computer and GitHub. 
@@ -86,8 +86,11 @@ Mac Users:
 
 Use the command line:
 
-1) In Powershell type `winget install --id Git.Git -e --source winget` + enter
-2) This will take you to a dialog box that will walk you through the installation.
+1) In Powershell copy this command `winget install --id Git.Git -e --source winget`
+2) Paste it into Powershell using ctrl + C
+3) Press enter
+4) This will take you to a dialog box that will walk you through the installation.
+5) Click through the installation without changing any of the options.
 
 
 Use the GUI installer:
@@ -95,6 +98,7 @@ Use the GUI installer:
 1) Navigate to [https://git-scm.com/install/windows](https://git-scm.com/install/windows)
 2) Select “Click here to download” at the top of the page
 3) This will take you to a dialog box that will walk you through the installation.
+4) Click through the installation without changing any of the options.
 
 [See detailed instructions](documentation/git_install_windows.md)
 
@@ -102,7 +106,10 @@ Use the GUI installer:
 ## Installing Git on Macs
 
 1) In terminal type `xcode-select --install` + return
-2) This will take you to a dialog box that will walk you through the installation.
+2) Paste it into Terminal using cmd + C
+3) Press enter
+3) This will take you to a dialog box that will walk you through the installation.
+4) Click through the installation without changing any of the options.
 
 [See detailed instructions](documentation/git_install_mac.md)
 
