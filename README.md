@@ -37,7 +37,7 @@ GitHub is optimal for sharing code and other files containing text but not for m
 | CSV | .csv | tabular data |
 | JSON | .json  | store/transfer data |
 | Markdown | .md | README files, documentation |
-| Text | .txt | text |
+| Text | .txt | plain text, README files, documentation |
 | XML | .xml | encoding documents such as text, music, or metadata |
 | YAML | .yaml | configuration files (ensures that people interested in your project will be working with the correct versions of software when using your files)|
 | Python | .py and .pynb | programs written in the Python programming language|
