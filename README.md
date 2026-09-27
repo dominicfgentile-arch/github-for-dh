@@ -62,7 +62,7 @@ Windows Users:
   ![A screenshot of a Powershell terminal window](media/windows_powershell.png)
 
 Mac Users:
-- Got to the Spotlight search bar and type "terminal" + enter
+- Got to the Spotlight search bar and type "terminal" + return
   
 ![A screenshot of a Mac Terminal window](media/mac_terminal.png)
 
