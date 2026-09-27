@@ -1,6 +1,6 @@
 # Sample Data
 
-The ["data"](/data) directory contains examples of file types that are common to DH projects. Explore the files in these folders to see how these they are formatted (open them in Notepad/TextEdit or on GitHub online).
+This ["data"](/data) directory contains examples of file types that are common to DH projects. Explore the files in these folders to see how these they are formatted (open them in Notepad/TextEdit or on GitHub online).
 
 # [/data/cantus-index_cantuscorpus_2.0/static](/data/cantus-index_cantuscorpus_2.0/static)
 
