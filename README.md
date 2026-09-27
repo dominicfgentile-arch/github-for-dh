@@ -16,7 +16,7 @@ This README is divided into the following sections:
 - [References](#references)
 - [Resources](#resources)
 
-Feel free to reference this README throughout this workshop!
+**Please reference the handout for step-by-step instructions during the exercise, but please feel free to reference this README throughout this workshop!**
 
 # What is a README?
 A README is a document created by project developers to share essential information about their projects. They are usually stored as text (.txt) or markdown (.md) files. The file you see here is a markdown file, which allows you to display text, insert links, images, code blocks, and tables, and create headings using plain text.
