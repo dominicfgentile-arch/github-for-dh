@@ -29,8 +29,8 @@ Fine the toggle towards the top of your screen and switch it to "Code" view.
 ![Image of a toggle that allows you to change between the rendered text and raw code/plain text of a document](media/code_toggle.png)
 
 GitHub is optimal for sharing code and other files containing text but not for media such as video and music files. Common file formats include:
-| Name | Extension                 | Common Uses                                                                                                                                                  |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Name | Extension        | Common Uses |
+|------|------------------|-------------|
 | HTML| .html | webpages |
 | CSS | .css | style HTML webpages |
 |JavaScript| .js | used to add interactive elements to HTML webpages |
