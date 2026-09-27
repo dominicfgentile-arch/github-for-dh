@@ -1,0 +1,491 @@
+[
+	{
+		"Filename": "zodiacum_MENSURAL.mei",
+		"Title": "Zodiacum",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Apollinis eclipsatur | motetus: Zodiacum signis lustrantibus | tenor: IN OMNEM TERRAM"
+	},
+	{
+		"Filename": "vos_pastores_MENSURAL.mei",
+		"Catalogue Number": "p.mus.22",
+		"Title": "Vos pastores",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Orbis orbatus oculis | motetus: Vos pastores adulteri | tenor: FUR NON VENIT NISI UT FURETUR ET MACTET ET PERDAT"
+	},
+	{
+		"Filename": "virtutibus_MENSURAL.mei",
+		"Title": "Virtutibus",
+		"Composer": "Philippe de Vitry (attrib.)",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Impudenter circumivi solum quod mare terminat | motetus: Virtutibus laudabilis | tenor: [TENOR] | contratenor: [CONTRATENOR]"
+	},
+	{
+		"Filename": "ve_qui_MENSURAL.mei",
+		"Catalogue Number": "p.mus.21",
+		"Title": "Ve qui gregi",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "quadruplum: Quasi non ministerium | triplum: Trahunt in praecipia qui nos | motetus: Ve qui gregi deficiunt | tenor: DISPLICEBAT EI"
+	},
+	{
+		"Filename": "sicut_MENSURAL.mei",
+		"Catalogue Number": "p.mus.51",
+		"Title": "Sicut de ligno",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Inflammatis invidia | motetus: Sicut de ligno parvulus generatur | tenor: [VICTIMAE PASCHALI LAUDES]"
+	},
+	{
+		"Filename": "rex_quem_MENSURAL.mei",
+		"Title": "Rex",
+		"Composer": "Philippe de Vitry",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: O canenda vulgo per computa | motetus: Rex quem metrorum | tenor: REX REGUM | contratenor: [CONTRATENOR]"
+	},
+	{
+		"Filename": "rex_beatus_MENSURAL.mei",
+		"Catalogue Number": "p.mus.32",
+		"Title": "Rex beatus",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Se coeurs joians, jonnes, jolis | motetus: Rex beatus, confessor Domini | tenor: AVE"
+	},
+	{
+		"Filename": "quoniam_MENSURAL.mei",
+		"Catalogue Number": "p.mus.120",
+		"Title": "Quoniam",
+		"Composer": "Philippe de Vitry (attrib.)",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Tribum, que[m] non abhorruit | motetus: Quoniam secta latronum spelunca | tenor: MERITO [HEC PATIMUR]"
+	},
+	{
+		"Filename": "qui_secuntur_MENSURAL.mei",
+		"Catalogue Number": "p.mus.12",
+		"Title": "Qui secuntur",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Detractor est nequissima vulpis | motetus: Qui secuntur castra sunt | tenor: VERBUM INIQUUM ET DOLOSUM ABHOMINABITUR DOMINUS"
+	},
+	{
+		"Filename": "presidentes_MENSURAL.mei",
+		"Catalogue Number": "p.mus.4",
+		"Title": "Praesidentes",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Super cathedram Moisi latitat | motetus: Praesidentes in tronis saeculi | tenor: RUINA"
+	},
+	{
+		"Filename": "post_misse_MENSURAL.mei",
+		"Title": "Post misse",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Post missarum sollempnia | motetus: Post misse modulamina | tenor: [TENOR] | contratenor: [CONTRATENOR]"
+	},
+	{
+		"Filename": "plange_MENSURAL.mei",
+		"Catalogue Number": "p.mus.9",
+		"Title": "Plange",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Nulla pestis est gravior | motetus: Plange, nostra regio | tenor: VERGENTE EX IMPERFECTIS"
+	},
+	{
+		"Filename": "o_philippe_MENSURAL.mei",
+		"Catalogue Number": "p.mus.33",
+		"Title": "O Philippe",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Servant regem misericaordia | motetus: O Philippe, prelustris Francorum | tenor: REX REGUM ET DOMINUS DOMINANCIUM"
+	},
+	{
+		"Filename": "ma_dolour_MENSURAL.mei",
+		"Title": "Ma dolour",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Fortune, mere à dolour | motetus: Ma dolour ne cesse pas | tenor: DOLOUR MEUS"
+	},
+	{
+		"Filename": "M18_MENSURAL.mei",
+		"Title": "Bone pastor",
+		"Composer": "Guillaume de Machaut",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Bone pastor | motetus: Bone pastor | tenor: [TENOR]"
+	},
+	{
+		"Filename": "je_sui_aussi_MENSURAL.mei",
+		"Title": "Je sui aussi",
+		"Composer": "Guillaume de Machaut",
+		"Classification": "Song",
+		"Incipit Texts": "cantus: [CANTUS] | tenor: [TENOR]"
+	},
+	{
+		"Filename": "jai_fait_MENSURAL.mei",
+		"Catalogue Number": "p.mus.41",
+		"Title": "J'ai fait",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: La mesnie fauveline | motetus: J'ai fait nouvelement | tenor: GRANT DESPIT AI JE"
+	},
+	{
+		"Filename": "iure_MENSURAL.mei",
+		"Catalogue Number": "p.mus.5",
+		"Title": "Iure quod",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Scariotis geniture vipereo | motetus: Iure quod in opere davitico | tenor: SUPERNE MATRIS GAUDIA"
+	},
+	{
+		"Filename": "in_mari_MENSURAL.mei",
+		"Catalogue Number": "p.mus.7",
+		"Title": "In mari miserie",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: [TRIPLUM] | motetus: In mari miserie | tenor: Tenor"
+	},
+	{
+		"Filename": "in_arboris_MENSURAL.mei",
+		"Title": "In arboris",
+		"Composer": "Philippe de Vitry (attrib.)",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Tuba sacre fidei | motetus: In arboris empiro | tenor: VIRGO SUM. TENOR."
+	},
+	{
+		"Filename": "hugo_MENSURAL.mei",
+		"Title": "Hugo",
+		"Composer": "Philippe de Vitry (attrib.)",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Cum statua Nabucodonasor | motetus: Hugo, Hugo, princeps invidie | tenor: TENOR CUM STATUA"
+	},
+	{
+		"Filename": "heu_MENSURAL.mei",
+		"Catalogue Number": "p.mus.71",
+		"Title": "Heu",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Aman novi probatur exitu | motetus: Heu! Fortuna subdola | tenor: HEU! TRISTIS EST ANIMA MEA!"
+	},
+	{
+		"Filename": "gratissima_MENSURAL.mei",
+		"Title": "Gratissima",
+		"Composer": "Phliippe de Vitry",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Vos quid admiramini | motetus: Gratissima virginis species | tenor: GAUDE GLORIOSA | contratenor: [CONTRATENOR]"
+	},
+	{
+		"Filename": "gaude_MENSURAL.mei",
+		"Title": "Gaude",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Mater formosa tu nobilis | motetus: Gaude virgo mater | tenor: [TENOR]"
+	},
+	{
+		"Filename": "flos_MENSURAL.mei",
+		"Title": "Flos",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Apta caro plumis, ingenii | motetus: Flos virginum, decus et species | tenor: ALMA REDEMPTORIS MATER"
+	},
+	{
+		"Filename": "florens_MENSURAL.mei",
+		"Title": "Florens",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Floret cum vana gloria | motetus: Florens vigor ulciscendo | tenor: [TENOR]"
+	},
+	{
+		"Filename": "fauvel_MENSURAL.mei",
+		"Catalogue Number": "p.mus.29",
+		"Title": "Fauvel nous",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Je voi douleur avenir, car tout | motetus: Fauvel nous a fait present | tenor: FAUVEL AUTANT MEST SI POISE ARRIERE COMME AVANT"
+	},
+	{
+		"Filename": "esperance_MENSURAL.mei",
+		"Title": "Esperance",
+		"Composer": "Guillaume de Machaut",
+		"Classification": "Song",
+		"Incipit Texts": "cantus: Esperance qui m'asseure | tenor: [TENOR]"
+	},
+	{
+		"Filename": "en_lestat_MENSURAL.mei",
+		"Title": "En l'estat",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: L'amoureuse flour d'esté | motetus: En l'estat d'amere tristour | tenor: [TENOR]"
+	},
+	{
+		"Filename": "durement_MENSURAL.mei",
+		"Title": "Durement",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Amer amours est la choison | motetus: Durement au cuer blece | tenor: DOLOR MEUS"
+	},
+	{
+		"Filename": "dous_viaire_MENSURAL.mei",
+		"Title": "Dous viaire gracieus",
+		"Composer": "Guillaume de Machaut",
+		"Classification": "Song",
+		"Incipit Texts": "cantus: Dous viaire gracieus | tenor: Tenor"
+	},
+	{
+		"Filename": "diex_MENSURAL.mei",
+		"Title": "Se paour",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Se päour d'umble astinence | motetus: Diex, tan desir | tenor: [TENOR]"
+	},
+	{
+		"Filename": "decens_MENSURAL.mei",
+		"Title": "Decens",
+		"Composer": "Philippe de Vitry (attrib.)",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: In virtute nominum | motetus: Decens carmen edere | tenor: CLAMOR DEUS | contratenor: [CONTRATENOR]"
+	},
+	{
+		"Filename": "de_touz_MENSURAL.mei",
+		"Title": "De touz",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Li enseignment de chaton | motetus: De touz les biens | tenor: [TENOR]"
+	},
+	{
+		"Filename": "cum_venerint_MENSURAL.mei",
+		"Title": "Cum venerint",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Se grace | motetus: Cum venerint | tenor: ITE MISSA EST"
+	},
+	{
+		"Filename": "celsa_MENSURAL.mei",
+		"Title": "Celsa",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Flos ortus inter lilia | motetus: Celsa cedrus ysopus effecta | tenor: QUAM MAGNUS PONTIFEX"
+	},
+	{
+		"Filename": "bona_MENSURAL.mei",
+		"Title": "Bona",
+		"Composer": "Philippe de Vitry",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Colla iugo subdere | motetus: Bona condit | tenor: LIBERA ME, DOMINE"
+	},
+	{
+		"Filename": "bon_vin_MENSURAL.mei",
+		"Catalogue Number": "p.mus.130",
+		"Title": "Bon vin",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Quant je le voi | motetus: Bon vin doit | tenor: Cis chans veult | triplum: Quant je le voi | motetus: Bon vin doit | tenor: Cis chans veult"
+	},
+	{
+		"Filename": "alieni_MENSURAL.mei",
+		"Catalogue Number": "p.mus.37",
+		"Title": "Alieni boni",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Facilius a nobis vitatur | motetus: Alieni boni invidia | tenor: IMPERFECTE CANITE"
+	},
+	{
+		"Filename": "adesto_MENSURAL.mei",
+		"Catalogue Number": "p.mus.124",
+		"Title": "Adesto",
+		"Composer": "Philippe de Vitry (attrib.)",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Firmissime fidem teneamus | motetus: Adesto, sancta Trinitas | tenor: ALLELUYA BENEDICTUS ET CETERA"
+	},
+	{
+		"Filename": "342_MENSURAL.mei",
+		"Catalogue Number": "Mo 8,342",
+		"Title": "Tant me plaist",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Qui d’amours n'a riens gousté | motetus: Tant me plaist Amour servir | tenor: VIRGA YESSE"
+	},
+	{
+		"Filename": "341_MENSURAL.mei",
+		"Catalogue Number": "Mo 8,341",
+		"Title": "Huic ut placuit",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Huic ut placuit, tres magi mistica | motetus: Huic ut placuit, tres magi mistica | tenor: [HUIC MAGI]"
+	},
+	{
+		"Filename": "340_MENSURAL.mei",
+		"Catalogue Number": "Mo 8,340",
+		"Title": "Balam inquit",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Balam inquit vaticinans | motetus: Balam inquit vaticinans | tenor: BALLAAM"
+	},
+	{
+		"Filename": "338_MENSURAL.mei",
+		"Catalogue Number": "Mo 8,338",
+		"Title": "Solem iusticie",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Amours, qui si me maistrie | motetus: Solem iusticie, letiticie | tenor: SOLEM"
+	},
+	{
+		"Filename": "335_MENSURAL.mei",
+		"Catalogue Number": "Mo 8,335",
+		"Title": "Pluseur dient",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Cis a petit de bien en li | motetus: Pluseur dient, que j'aim entrer | tenor: PORTARE"
+	},
+	{
+		"Filename": "334_MENSURAL.mei",
+		"Catalogue Number": "Mo 8,334",
+		"Title": "Pour la plus jolie",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: A maistre Jehan lardier | motetus: Pour la plus jolie | tenor: ALLELUYA"
+	},
+	{
+		"Filename": "332_MENSURAL.mei",
+		"Catalogue Number": "Mo 8,332",
+		"Title": "Se j'ai folement",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Je cuidoie bien metre | motetus: Se j’ai folement amé | tenor: SOLEM"
+	},
+	{
+		"Filename": "330_MENSURAL.mei",
+		"Catalogue Number": "Mo 8,330",
+		"Title": "Descendi in[hortum]",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Virginale decus et presidium | motetus: Descendi in [h]ortum meum | tenor: ALMA [REDEMPTORIS MATER]"
+	},
+	{
+		"Filename": "328_MENSURAL.mei",
+		"Catalogue Number": "Mo 8,328",
+		"Title": "Ad amorem sequitur",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Amor potest conqueri | motetus: Ad amorem sequitur | tenor: TENOR"
+	},
+	{
+		"Filename": "325_MENSURAL.mei",
+		"Catalogue Number": "Mo8,325",
+		"Title": "Prennes i garde",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: S'on me regarde | motetus: Prennes i garde | tenor: HE, MON ENFANT"
+	},
+	{
+		"Filename": "323_MENSURAL.mei",
+		"Catalogue Number": "Mo 8,323",
+		"Title": "Li grant desirs",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Li savours de mon desir | motetus: Li grant desirs, qui j'ai de recouvrer | tenor: NON VEUL MARI"
+	},
+	{
+		"Filename": "322_MENSURAL.mei",
+		"Catalogue Number": "Mo 8,322",
+		"Title": "Huius chori",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Marie assumptio | motetus: Huius chori suscipe cantica | tenor: TENOR"
+	},
+	{
+		"Filename": "321_MENSURAL.mei",
+		"Catalogue Number": "Mo 8,321",
+		"Title": "L'autriet m'estuet",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: De mes amours sui souvent repentis | motetus: L’autrier m’estuet venue volenté | tenor: DEFORS COMPIEGNE"
+	},
+	{
+		"Filename": "319_MENSURAL.mei",
+		"Catalogue Number": "Mo 8,319",
+		"Title": "A Paris",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: On parole de batre et de vanner | motetus: A Paris soir et matin | tenor: FRESE NOUVELE MURE FRANCE MURE MURE FRANCE"
+	},
+	{
+		"Filename": "317_MENSURAL.mei",
+		"Catalogue Number": "Mo 8,317",
+		"Title": "Iure tuis laudibus",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Aucun, qui ne sevent servir | motetus: Iure tuis laudibus | tenor: [VIRGO] MARIA"
+	},
+	{
+		"Filename": "316_MENSURAL.mei",
+		"Catalogue Number": "Mo 8,316",
+		"Title": "Jolietement",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Se je sui liés et chantans | motetus: Jolietement | tenor: OMNES"
+	},
+	{
+		"Filename": "314_MENSURAL.mei",
+		"Catalogue Number": "Mo 8,314",
+		"Title": "Vo vair",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Dieus, comment puet li cuers durer | motetus: Vo vair oel m'ont espris | tenor: TENOR"
+	},
+	{
+		"Filename": "312_MENSURAL.mei",
+		"Catalogue Number": "Mo 8,312",
+		"Title": "Chele m'a tollu",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Au tans nouvel, que naissent flours | motetus: Chele m’a tollu | tenor: J'AI FAIT TOUT NOUVELETEMENT"
+	},
+	{
+		"Filename": "311_MENSURAL.mei",
+		"Catalogue Number": "Mo 8,311",
+		"Title": "Bien doi amer",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Se je chante, ce fait Amour | motetus: Bien doi amer mon ami | tenor: ET SPERABIT"
+	},
+	{
+		"Filename": "310_MENSURAL.mei",
+		"Catalogue Number": "Mo 8,310",
+		"Title": "Amours me commande",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: In sompnis, mira Dei nuncia monuerunt | motetus: Amours me commande et prie | tenor: IN SOMPNIS"
+	},
+	{
+		"Filename": "309_MENSURAL.mei",
+		"Catalogue Number": "Mo 8,309",
+		"Title": "O clemencie",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Par une matinee, el moys joli d'avril | motetus: O clemencie | tenor: D'UN JOLI DART"
+	},
+	{
+		"Filename": "307_MENSURAL.mei",
+		"Catalogue Number": "Mo 8,307",
+		"Title": "O regina glorie",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Dieus, comment porrai laissier | motetus: O regina glorie | tenor: NOBIS CONCEDAS [VENIAM PER SECULA] O BENIGNA"
+	},
+	{
+		"Filename": "306_MENSURAL.mei",
+		"Catalogue Number": "Mo 8,306",
+		"Title": "O virtutis",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: O presul eximie | motetus: O virtutis speculum | tenor: SACERDOTUM"
+	},
+	{
+		"Filename": "305_MENSURAL.mei",
+		"Catalogue Number": "Mo 8,305",
+		"Title": "Li dous maus",
+		"Composer": "Anonymous",
+		"Classification": "Motet",
+		"Incipit Texts": "triplum: Mout ai longuement Amour | motetus: Li dous maus d'amer | tenor: PORTARE"
+	}
+]
