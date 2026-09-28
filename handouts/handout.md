@@ -11,8 +11,8 @@ Go to the github-for-dh repository online, [https://github.com/dominicfgentile-a
 Use the command line:
 
 1) In Powershell copy this command `winget install --id Git.Git -e --source winget`
-2) Paste it into Powershell using ctrl + C
-3) Press enter
+2) Paste it into Powershell using `ctrl + C`
+3) Press `enter`
 4) This will take you to a dialog box that will walk you through the installation.
 5) Click through the installation without changing any of the options.
 
@@ -26,8 +26,8 @@ Use the GUI installer:
 ### Installing Git on Macs
 
 1) In terminal type `xcode-select --install` + return
-2) Paste it into Terminal using cmd + C
-3) Press enter
+2) Paste it into Terminal using `cmd + C`
+3) Press `enter`
 4) This will take you to a dialog box that will walk you through the installation.
 5) Click through the installation without changing any of the options.
 
@@ -46,21 +46,21 @@ Mac Users:
 If you have Git installed your terminal should output something like this: `git version 2.55.0.windows.5`
 
 ## Navigate to your Desktop Using `cd`
-**Type `pwd` + enter/return** to determine where you are on your computer (aka your **current working directory**). Your terminal should output something like this: `/c/Users/<Username>`.  This is called a **filepath**. 
+**Type `pwd` + `enter`/`return`** to determine where you are on your computer (aka your **current working directory**). Your terminal should output something like this: `/c/Users/<Username>`.  This is called a **filepath**. 
 
 Your desktop is located here: `/c/Users/<Username>/desktop`.  By adding `/desktop` we are telling the computer to move to your desktop folder which is located within \<Username>\.
 
 To get to your desktop we use `cd <filepath>`. `cd` **c**hanges our **d**irectory from one file path to another. 
 
-**Type `cd ~/desktop` + enter/return.**
+**Type `cd /c/Users/<Username>/desktop` + `enter`/`return`.**
 
 **Test where you are using `pwd`.**
 
 ## List the Files on Your Desktop using `ls`
-**Type `ls` + enter/return** after you have moved to your desktop to see all of your files and directories contained there.
+**Type `ls` + `enter`/`return`** after you have moved to your desktop to see all of your files and directories contained there.
 
 ## Clone our GitHub Repository using `git clone <url>.git`
-**Type `clone git https://github.com/dominicfgentile-arch/github-for-dh.git` + enter/return**
+**Type `clone git https://github.com/dominicfgentile-arch/github-for-dh.git` + `enter`/`return`**
 
 Check to see the contents of this repository using `ls`
 
@@ -68,15 +68,20 @@ Check to see the contents of this repository using `ls`
 
 ## Git Commands
 
-| Process         | Description                                                                                                                   |
+| Command        | Description                                                                                                                   |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| init            | creates a new repository                                                                                                      |
-| clone <url>.git | used to download a local copy of a remote repository. Use only once.                                                          |
-| pull            | used to update the local copy of the repository with changes (“commits”) that other users have made to the remote repository. |
-| commit          | logs the changes you made to your local repository                                                                            |
-| push            | takes local changes (created, edited, deleted files) and adds them to the remote repository                                   |
+| `init`            | creates a new repository                                                                                                      |
+| `clone <url>.git` | use to download a local copy of a remote repository. Use only once.                                                          |
+| `pull`            | use to update the local copy of the repository with changes (“commits”) that other users have made to the remote repository. |
+|  `add .`            | use when you are ready to add the files/directories from your local repository to the remote repository |
+| `commit -m <message>`          | logs the changes you made to your local repository. allows you to write a quick message describing the changes made (always put in quotes)                                                                            |
+| `push`            | takes local changes (created, edited, deleted files) and adds them to the remote repository                                   |
+
+Use `git clone` in place of `git fetch` the first time you download the remote repository
 
 <img src="https://github.com/dominicfgentile-arch/github-for-dh/blob/main/media/adhikari_github_workflow.png" width="400">
+
+One you have files ready to go to your remote repository enter these commands in this order: `git add .` --> `git commit -m <message>` --> `git push`
 
 Adhikari, Sujan. (2023, November 20). How Git works: A visual guide with code. Medium.
 
@@ -85,13 +90,10 @@ Adhikari, Sujan. (2023, November 20). How Git works: A visual guide with code. M
 
 | Command                | Description                                                                                                                                                                                |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| cd <filepath>          | change current directory – change the folder in which your commands will work  <br>  <br>Use “cd ~” to navigate to your home directory  <br>And “cd ~/desktop” to navigate to your desktop |
-| pwd                    | print working directory – prints out the filepath of the directory you are currently in                                                                                                    |
-| ls                     | lists the files and directories contained in your current working directory                                                                                                                |
-| git --version          | Use to check to see if you have Git installed or which version of git you have                                                                                                             |
-| git --clone <url>.git  | Use to download a local copy of a remote repository. Use only once.                                                                                                                        |
-| clear                  | Clears your terminal window.                                                                                                                                                               |
-| ctrl + c (control + c) | Quits a process that is running.                                                                                                                                                           |
-
-
-Use `git clone` in place of `git fetch` the first time you download the remote repository
+| `cd <filepath>`          | change current directory – change the folder in which your commands will work |
+| `pwd`                    | print working directory – prints out the filepath of the directory you are currently in                                                                                                    |
+| `ls`                     | lists the files and directories contained in your current working directory                                                                                                                |
+| `git --version`          | Use to check to see if you have Git installed or which version of git you have                                                                                                             |
+| `git --clone <url>.git`  | Use to download a local copy of a remote repository. Use only once.                                                                                                                        |
+| `clear`                  | Clears your terminal window.                                                                                                                                                               |
+| `ctrl + c` (`control + c`) | Quits a process that is running.                                                                                                                                                           |
