@@ -56,13 +56,13 @@ While it may seems complicated at first, knowing only a handful of commands will
 ## How do I get to the command line?
 
 Windows Users:
-- Press the windows key (⊞) and enter "Powershell" in the search bar + press enter
+- Press the windows key (⊞) and enter "powershell" in the search bar + enter
 - You should see a blue window like this:
   
   ![A screenshot of a Powershell terminal window](media/windows_powershell.png)
 
 Mac Users:
-- Got to the Spotlight search bar and type "terminal" + return
+- Go to the Spotlight search bar and type "terminal" + return
   
 ![A screenshot of a Mac Terminal window](media/mac_terminal.png)
 
