@@ -77,9 +77,12 @@ Use `git clone` in place of `git fetch` the first time you download the remote r
 
 <img src="https://github.com/dominicfgentile-arch/github-for-dh/blob/main/media/adhikari_github_workflow.png" width="400">
 
-One you have files ready to go to your remote repository enter these commands in this order: `git add .` --> `git commit -m <message>` --> `git push`
 
 Adhikari, Sujan. (2023, November 20). How Git works: A visual guide with code. Medium.
+
+
+One you have files ready to go to your remote repository enter these commands in this order: `git add .` --> `git commit -m <message>` --> `git push`
+
 
 ## Powershell/Terminal Commands
 
