@@ -76,7 +76,7 @@ Check to see the contents of this repository using `ls`
 | commit          | logs the changes you made to your local repository                                                                            |
 | push            | takes local changes (created, edited, deleted files) and adds them to the remote repository                                   |
 
-![An image displaying the standard Git workflow.](media/adhikari_github_workflow.png)
+<img src="https://github.com/dominicfgentile-arch/github-for-dh/blob/main/media/adhikari_github_workflow.png" width="400">
 
 Adhikari, Sujan. (2023, November 20). How Git works: A visual guide with code. Medium.
 
@@ -95,41 +95,3 @@ Adhikari, Sujan. (2023, November 20). How Git works: A visual guide with code. M
 
 
 Use `git clone` in place of `git fetch` the first time you download the remote repository
-
-# References
-
-“1.3 Getting started - What is Git?” (n.d.). Git. Accessed September 20, 2026. [https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
-
-Adhikari, Sujan. (2023, November 20). How Git works: A visual guide with code. *Medium*. [https://medium.com/@sujanaddy98/how-git-works-a-visual-guide-with-code-b4edf2694298](https://medium.com/@sujanaddy98/how-git-works-a-visual-guide-with-code-b4edf2694298)
-
-Becker, D., Williamson, E., & Wikle, O. (2020). CollectionBuilder-CONTENTdm: Developing a static web ‘skin’ for CONTENTdm-based digital collections. *Code{4}lib Journal, 49*. [https://journal.code4lib.org/articles/15326](https://journal.code4lib.org/articles/15326) 
-
-“Branches.” (2026). [https://docs.github.com/en/pull-requests/reference/branches](https://docs.github.com/en/pull-requests/reference/branches) 
-
-Craig, K., Dalmau, M., & Purcell, S. (2026, March 25). Operationalizing minimal computing values through shared computing-platform development: A case study of DigitalArc and Opaque Publisher.  *In the Library with the Lead Pipe*. [https://www.inthelibrarywiththeleadpipe.org/2026/digitalarc/](https://www.inthelibrarywiththeleadpipe.org/2026/digitalarc/) 
-
-ghostinhershell. (2025, July 25). “Day 1: What is GitHub (and why do people use it)? 🤔.” GitHub. [https://github.com/orgs/community/discussions/167863](https://github.com/orgs/community/discussions/167863)
-
-Koeser, R.S., Budak, N. (2025). mep-django \[Computer software]\. [https://github.com/Princeton-CDH/mep-django](https://github.com/Princeton-CDH/mep-django)
-
-Kotin, J., Koeser, R.S. et al. “Discoveries.” (2021). Shakespeare and Company Project, version 1.10.1. Center for Digital Humanities, Princeton University. [https://shakespeareandco.princeton.edu/discoveries/](https://shakespeareandco.princeton.edu/discoveries/)
-
-Kotin, J., Koeser, R.S. et al. (2025). Shakespeare and company project, version 1.10.1. Center for Digital Humanities, Princeton University. [https://shakespeareandco.princeton.edu/](https://shakespeareandco.princeton.edu/)
-
-“Pull Requests.” (2026). [https://docs.github.com/en/pull-requests/reference/pull-requests](https://docs.github.com/en/pull-requests/reference/pull-requests)
-
-# Resources
-
-“Bash Tutorial.” (2026). W3Schools. [https://www.w3schools.com/bash/index.php](https://www.w3schools.com/bash/index.php)
-
-"Difference between terminal, console, shell, and command line." (2025, July 23). GeeksforGeeks. [https://www.geeksforgeeks.org/operating-systems/difference-between-terminal-console-shell-and-command-line/)](https://www.geeksforgeeks.org/operating-systems/difference-between-terminal-console-shell-and-command-line/)
-
-“Git Cheat Sheet.” (n.d.). Git. Accessed September 20, 2026. https://git-scm.com/cheat-sheet
-
-“GitHub Student Developer Pack.” GitHub. [https://education.github.com/pack](https://education.github.com/pack)
-- Microcredentials and short courses
-- Access to learning modules and certifications that are usually paywalled
-- Free access upon proof that you are a student
-
-“Software Carpentry Lessons.” (2026). Software Carpentry. The Carpentries. [https://software-carpentry.org/lessons/](https://software-carpentry.org/lessons/)
-- See ["The Unix Shell"](https://swcarpentry.github.io/shell-novice/) and ["Version control with Git"](https://swcarpentry.github.io/git-novice/) lessons
