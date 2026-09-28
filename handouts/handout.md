@@ -5,9 +5,7 @@ Presented by: Olivia Olson and Dominic Gentile
 Go to the github-for-dh repository online, [https://github.com/dominicfgentile-arch/github-for-dh](https://github.com/dominicfgentile-arch/github-for-dh). Keep it open in your browser throughout the workshop. Use the README on the homepage for reference.
 
 ## Install Git
-
 ### Installing Git on Windows machines
-
 Use the command line:
 
 1) In Powershell copy this command `winget install --id Git.Git -e --source winget`
@@ -24,7 +22,6 @@ Use the GUI installer:
 4) Click through the installation without changing any of the options.
 
 ### Installing Git on Macs
-
 1) In terminal type `xcode-select --install` + return
 2) Paste it into Terminal using `cmd + C`
 3) Press `enter`
@@ -65,7 +62,6 @@ To get to your desktop we use `cd <filepath>`. `cd` **c**hanges our **d**irector
 Check to see the contents of this repository using `ls`
 
 # Command Line Reference
-
 ## Git Commands
 
 | Command        | Description                                                                                                                   |
@@ -85,15 +81,14 @@ One you have files ready to go to your remote repository enter these commands in
 
 Adhikari, Sujan. (2023, November 20). How Git works: A visual guide with code. Medium.
 
-
 ## Powershell/Terminal Commands
 
-| Command                | Description                                                                                                                                                                                |
-| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| `cd <filepath>`          | change current directory – change the folder in which your commands will work |
-| `pwd`                    | print working directory – prints out the filepath of the directory you are currently in                                                                                                    |
-| `ls`                     | lists the files and directories contained in your current working directory                                                                                                                |
-| `git --version`          | Use to check to see if you have Git installed or which version of git you have                                                                                                             |
-| `git --clone <url>.git`  | Use to download a local copy of a remote repository. Use only once.                                                                                                                        |
-| `clear`                  | Clears your terminal window.                                                                                                                                                               |
-| `ctrl + c` (`control + c`) | Quits a process that is running.                                                                                                                                                           |
+| Command                    | Description                                                                             |
+| -------------------------- | --------------------------------------------------------------------------------------- |
+| `cd <filepath>`            | change current directory – change the folder in which your commands will work           |
+| `pwd`                      | print working directory – prints out the filepath of the directory you are currently in |
+| `ls`                       | lists the files and directories contained in your current working directory             |
+| `git --version`            | Use to check to see if you have Git installed or which version of git you have          |
+| `git --clone <url>.git`    | Use to download a local copy of a remote repository. Use only once.                     |
+| `clear`                    | Clears your terminal window.                                                            |
+| `ctrl + c` (`control + c`) | Quits a process that is running.                                                        |
