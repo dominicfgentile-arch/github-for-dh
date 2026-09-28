@@ -100,8 +100,6 @@ Use the GUI installer:
 3) This will take you to a dialog box that will walk you through the installation.
 4) Click through the installation without changing any of the options.
 
-[See detailed instructions](documentation/git_install_windows.md)
-
 
 ## Installing Git on Macs
 
@@ -111,7 +109,6 @@ Use the GUI installer:
 3) This will take you to a dialog box that will walk you through the installation.
 4) Click through the installation without changing any of the options.
 
-[See detailed instructions](documentation/git_install_mac.md)
 
 # Git Commands
 
