@@ -3,7 +3,8 @@ Presented by: Olivia Olson and Dominic Gentile
 # Step-by-step Instructions
 ## Find the GitHub Repository and Documentation
 Go to the github-for-dh repository online, [https://github.com/dominicfgentile-arch/github-for-dh](https://github.com/dominicfgentile-arch/github-for-dh). Keep it open in your browser throughout the workshop. Use the README on the homepage for reference.
-### Open the Command Line
+
+## Open the Command Line
 
 Windows Users:
 - Press the windows key (⊞) and enter "powershell" in the search bar + enter
