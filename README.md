@@ -39,7 +39,7 @@ GitHub is optimal for sharing code and other files containing text but not for m
 | Markdown | .md | README files, documentation |
 | Text | .txt | plain text, README files, documentation |
 | XML | .xml | encoding documents such as text, music, or metadata |
-| YAML | .yaml | configuration files (ensures that people interested in your project will be working with the correct versions of software when using your files)|
+| YAML | .yaml | configuration files (ensures that your project uses the correct software/versions)|
 | Python | .py and .pynb | programs written in the Python programming language|
 
 # The Command Line
@@ -64,7 +64,7 @@ Windows Users:
 Mac Users:
 - Go to the Spotlight search bar and type "terminal" + return
   
-![A screenshot of a Mac Terminal window]()
+![A screenshot of a Mac Terminal window](media/mac_terminal.png)
 
 **Note: While the commands that we will cover in this workshop are the same for both Windows and Mac, commands might differ slightly for more advanced or operating system-specific tasks. Programs that you can access via the command line will have their own requirements. In either case the information we present to you today will allow you to navigate your way through a command line interface (terminal) and your computer.**
 
@@ -78,7 +78,7 @@ Mac Users:
 | `git --version`         | Use to check to see if you have Git installed or which version of git you have                                                                                                             |
 | `git --clone <url>.git` | Use to download a local copy of a remote repository. Use only once.                                                                                                                        |
 | `clear`                 | Clears your terminal window.                                                                                                                                                               |
-| ctrl + c (control + c)  | Quits a process that is running.                                                                                                                                                           |
+| ctrl + c (cmd+ c)  | Quits a process that is running.                                                                                                                                                           |
 
 # Installing Git
 
@@ -87,8 +87,8 @@ Mac Users:
 Use the command line:
 
 1) In Powershell copy this command `winget install --id Git.Git -e --source winget`
-2) Paste it into Powershell using ctrl + C
-3) Press enter
+2) Paste it into Powershell using `ctrl + V`
+3) Press `enter`
 4) This will take you to a dialog box that will walk you through the installation.
 5) Click through the installation without changing any of the options.
 
@@ -103,9 +103,9 @@ Use the GUI installer:
 
 ## Installing Git on Macs
 
-1) In terminal type `xcode-select --install` + return
-2) Paste it into Terminal using cmd + C
-3) Press enter
+1) In terminal type `xcode-select --install`
+2) Paste it into Terminal using `cmd + V`
+3) Press `return`
 3) This will take you to a dialog box that will walk you through the installation.
 4) Click through the installation without changing any of the options.
 
