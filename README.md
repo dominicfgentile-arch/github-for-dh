@@ -64,7 +64,7 @@ Windows Users:
 Mac Users:
 - Go to the Spotlight search bar and type "terminal" + return
   
-![A screenshot of a Mac Terminal window](media/mac_terminal.png)
+![A screenshot of a Mac Terminal window]()
 
 **Note: While the commands that we will cover in this workshop are the same for both Windows and Mac, commands might differ slightly for more advanced or operating system-specific tasks. Programs that you can access via the command line will have their own requirements. In either case the information we present to you today will allow you to navigate your way through a command line interface (terminal) and your computer.**
 
